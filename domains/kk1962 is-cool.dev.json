@@ -1,11 +1,12 @@
 {
     "description": "Project Description",
     "domain": "is-not-a.dev",
-    "subdomain": "example",
+    "subdomain": "kk1962",
 
     "owner": {
         "repo": "https://github.com/username/repo",
-        "email": "hello@example.com"
+        "email": "info@yingbull.is-cool.dev"
+       
     },
 
     "record": {
